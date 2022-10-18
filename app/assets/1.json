@@ -1,0 +1,37 @@
+{
+    "name": "1",
+    "symbol": "NB",
+    "description": "Test NFT",
+    "seller_fee_basis_points": 1,
+    "image": "1.gif",
+    "animation_url": "1.glb",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "blue"
+      }
+    ],
+    "collection": {
+      "name": "",
+      "family": ""
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.gif",
+          "type": "image/gif"
+        },
+        {
+          "uri": "1.glb",
+          "type": "model/gltf-binary"
+        }
+      ],
+      "category": "vr",
+      "creators": [
+        {
+          "address": "",
+          "share": 100
+        }
+      ]
+    }
+  }
